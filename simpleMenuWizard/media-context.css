@@ -31,10 +31,11 @@
 /* #context-savevideo,                /* Save Video As…                  */
 /* #context-saveaudio,                /* Save Audio As…                  */
 /* #context-video-saveimage,          /* Save Snapshot As…               */
-/* #context-sendvideo,                /* Email Video…                    */
-/* #context-sendaudio,                /* Email Audio…                    */
+#context-sendvideo,                /* Email Video…                    */
+#context-sendaudio,                /* Email Audio…                    */
 /* #inspect-separator,                /************ Separator ************/
 /* #context-inspect,                  /* Inspect Element (Q)             */
 
-#leave_this_dummy_here
-    { display:none !important; }
+#leave_this_dummy_here {
+  display: none !important;
+}

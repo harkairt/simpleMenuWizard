@@ -11,8 +11,8 @@
 /* #pageAction-panel-pocket,                    /* Save Page to Pocket  */
 /* #pageAction-panel-pinTab,                    /* Pin Tab              */
 /* #pageAction-panel-bookmarkSeparator,         /****** Separator *******/
-/* #pageAction-panel-copyURL,                   /* Copy Link            */
-/* #pageAction-panel-emailLink,                 /* Email Link…          */
+#pageAction-panel-copyURL,                   /* Copy Link            */
+#pageAction-panel-emailLink,                 /* Email Link…          */
 /* #pageAction-panel-sendToDevice,              /* Send Tab to Device   */
 /* #pageAction-panel-screenshots,               /* Take a Screenshot    */
 /* #pageAction-panel-builtInSeparator,          /****** Separator *******/
@@ -20,5 +20,6 @@
 /* #pageAction-panel-transientSeparator,        /****** Separator *******/
 /* #pageAction-panel-addSearchEngine,           /* Add Search Engine    */
 
-#leave_this_dummy_here
-    { display:none !important; }
+#leave_this_dummy_here {
+  display: none !important;
+}
