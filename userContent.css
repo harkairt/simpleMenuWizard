@@ -1,0 +1,5 @@
+@-moz-document url("moz-extension://5eb8157d-f03b-854c-bedc-96408cfb7e2d/reader.html") {
+  .item-title {
+    white-space: normal !important;
+  }
+}
