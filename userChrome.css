@@ -63,6 +63,10 @@
   margin-right: 2px !important;
 }
 
+/************************* hide first search suggestion ************************/
+
+.urlbarView-row[type="search"]:first-child{display: none;}
+
 /**********************************************************
    How to activate or deactivate the following options:
    Remove '/*' at the beginning of a line (not comment line) to activate the option
