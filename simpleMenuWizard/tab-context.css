@@ -22,7 +22,7 @@
 #tabContextMenu #context_selectAllTabs,                    /* Select All Tabs         */
 #tabContextMenu #context_bookmarkSelectedTabs,             /* Bookmark Tabs…          */
 #tabContextMenu #context_bookmarkTab,                      /* Bookmark Tab            */
-#tabContextMenu #context_reopenInContainer,                /* Reopen in Container     */
+/* #tabContextMenu #context_reopenInContainer,                /* Reopen in Container     */
 /* #tabContextMenu #context_moveTabOptions,                   /* Move Tab(s)             */
 #tabContextMenu #context_sendTabToDevice,                  /* Send Tab to Device      */
 #tabContextMenu #context_sendTabToDevice + menuseparator,  /******** Separator ********/
